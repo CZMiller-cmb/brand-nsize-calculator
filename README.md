@@ -1,6 +1,6 @@
 Brand N-size Calculator
 <br>Created by: Cameron Miller
-<be>Last updated: 05.30.24
+<br>Last updated: 05.30.24
 
 This tool can be used to estimate the number of exposures per brand when the following parameters are known:
 - Total expected sample size
